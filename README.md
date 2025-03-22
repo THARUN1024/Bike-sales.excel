@@ -93,10 +93,3 @@ This dataset can be used for a variety of purposes, including:
    - Help retailers understand what factors lead to higher bike sales.  
 
 ---
-
-## Example Questions to Explore  
-- What is the relationship between income level and bike purchases?  
-- Do married customers buy bikes more often than single customers?  
-- How does commute distance impact the likelihood of purchasing a bike?  
-- Are customers with children less likely to buy a bike?  
-- Which region has the highest rate of bike purchases?  
